@@ -23,6 +23,7 @@ function deleteToDo(event) {
     saveToDos();
 }
 
+
 function paintToDo(text){
     const li = document.createElement("li");
     const delBtn = document.createElement("button");
