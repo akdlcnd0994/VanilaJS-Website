@@ -8,3 +8,9 @@ html&css&js를 이용한 바닐라js 프로젝트
 
 ##### 닉네임 설정 및 재입력가능
 ![image](https://github.com/akdlcnd0994/VanilaJS-Website/assets/28687142/044a97ad-a629-4be5-aa24-b77161baf70d)
+
+##### Todo list
+![image](https://github.com/akdlcnd0994/VanilaJS-Website/assets/28687142/12cf601a-cf98-4dc3-8472-fd9f3b2dbbd9)
+
+##### 닉네임과 Todo list 항목들은 다음과 같이 local Storage에 저장되어 사이트 재 방문시에도 데이터 존재
+![image](https://github.com/akdlcnd0994/VanilaJS-Website/assets/28687142/7bb0f32a-5914-451a-8eb3-5798a21260bc)
