@@ -1,6 +1,6 @@
 # VanilaJS-Website
 
-html&css&js를 이용한 바닐라js 프로젝트
+html&css&js를 이용한 바닐라js 프로젝트(gh-pages를 이용해 웹사이트 방문가능)
 
 
 ##### 메인화면(위치정보를 허가받고 지역&날씨&시간을 표기)
